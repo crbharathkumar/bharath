@@ -1,0 +1,30 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: aqua;
+    font-style: italic;
+}
+.navbar-left{
+    padding-left: 50px;
+}
+.login{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+.a-element{
+    padding: 20px;
+    display: flex;
+    margin: 20px;
+    border: 5px;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+    
+}
